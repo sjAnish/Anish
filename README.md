@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://sjanish.io)
+
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">B.tech undergrad, software Engineer,Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
